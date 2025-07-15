@@ -19,9 +19,7 @@ A Python application with a graphical user interface for collecting and managing
 
 *Coming soon
 
-## 🖼️ Screenshots
 
-[Add screenshots of the application here]
 
 ## 📋 Requirements
 
